@@ -1,5 +1,11 @@
 # mocha-vue
 
+测试框架 mocha + chai / jest
+
+vue create mocha-vue
+
+常见关系 相等 大于和小于 包含和不包含
+
 ## Project setup
 ```
 npm install
